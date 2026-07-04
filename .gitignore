@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.tsbuildinfo
+vite-dev.log
+vite.config.js
+vite.config.d.ts
+outputs/demo_video/screens/
+outputs/demo_video/work/

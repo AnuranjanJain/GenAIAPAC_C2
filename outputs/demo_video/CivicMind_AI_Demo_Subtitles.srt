@@ -1,0 +1,56 @@
+1
+00:00:00,000 --> 00:00:07,940
+A smart community decision platform for faster, clearer city operations.
+
+2
+00:00:07,940 --> 00:00:19,720
+Cities have data, but decisions are slowed by scattered systems and delayed interpretation.
+
+3
+00:00:19,720 --> 00:00:29,270
+One clean cockpit turns civic signals into explainable, human-approved action.
+
+4
+00:00:29,270 --> 00:00:39,760
+The dashboard focuses attention on the highest-risk ward instead of overwhelming the viewer.
+
+5
+00:00:39,760 --> 00:00:47,970
+Ward-level risk scores reveal where response teams should look first.
+
+6
+00:00:47,970 --> 00:00:58,700
+Actions are ranked by urgency, owner, expected impact, and supporting evidence.
+
+7
+00:00:58,700 --> 00:01:07,390
+The report view creates a shareable civic brief with sources and next steps.
+
+8
+00:01:07,390 --> 00:01:18,480
+Dashboard, Risk Map, Actions, Reports, and FAQ guide the complete demo flow.
+
+9
+00:01:18,480 --> 00:01:30,720
+30 seeded records across complaints, traffic, waste, utilities, environment, actions, and documents.
+
+10
+00:01:30,720 --> 00:01:40,460
+The right panel answers questions in plain English with confidence, evidence, and citations.
+
+11
+00:01:40,460 --> 00:01:54,210
+Cloud Run, BigQuery, Gemini, ADK, Vector Search, Looker, Cloud Storage, IAM, and Logging.
+
+12
+00:01:54,210 --> 00:02:05,730
+The system recommends and explains, but humans approve civic decisions.
+
+13
+00:02:05,730 --> 00:02:13,890
+Faster insight, better resource allocation, and clearer community response.
+
+14
+00:02:13,890 --> 00:02:24,040
+CivicMind AI turns scattered civic data into actionable community intelligence.
+
