@@ -1,5 +1,13 @@
 # CivicMind AI Architecture
 
+## Submission Artifacts
+
+- Live app: https://anuranjanjain.github.io/GenAIAPAC_C2/
+- Demo video: `outputs/demo_video/CivicMind_AI_3min_Demo_Video.mp4`
+- Animated preview: `outputs/demo_video/CivicMind_AI_Demo_Animated.gif`
+- Submission deck: `outputs/CivicMind_AI_Prototype_Submission_Deck.pptx`
+- Submission PDF: `outputs/CivicMind_AI_Prototype_Submission_Deck.pdf`
+
 ## Runtime Shape
 
 CivicMind AI is currently a Vite + React + TypeScript web prototype. It runs fully locally and simulates Google Cloud services through typed adapter interfaces.
@@ -10,6 +18,22 @@ CivicMind AI is currently a Vite + React + TypeScript web prototype. It runs ful
 2. Analytics functions in `src/domain/analytics.ts` calculate ward risk, summary metrics, category counts, and trends.
 3. The mock agent in `src/domain/agents.ts` orchestrates analyst, anomaly, RAG, recommendation, and report steps.
 4. React views render dashboard, risk map, action queue, report, and agent console.
+
+## Demo Dataset
+
+The prototype includes 30 seeded local records across seven civic tables:
+
+| Table | Records |
+| --- | ---: |
+| Citizen complaints | 7 |
+| Traffic events | 4 |
+| Waste collection | 4 |
+| Utility events | 3 |
+| Environment metrics | 5 |
+| Recommended actions | 4 |
+| SOP and policy documents | 3 |
+
+The FAQ tab in the UI explains what the prototype is, how to use it, what changed in the redesign, and how much data is included.
 
 ## Future Cloud Flow
 
